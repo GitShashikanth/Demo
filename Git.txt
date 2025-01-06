@@ -1,0 +1,15 @@
+Git: It is a DVCS (Distibuted version control system) - Working copy - local repo -central repo.
+
+SVN tool : CVCS (Centralized version control system) - working copy - central repo.
+
+Git INIT - workspace 
+
+Stages of Git: 3 stages
+
+Working Copy
+ |
+Staging area (intermediate area)
+ | (Commit)
+Local repo   (After commiting,commit id is generated in local repo)
+ | (Push)
+Central repo
